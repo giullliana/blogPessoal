@@ -1,0 +1,1 @@
+insert into 'blogpessoal2_db'.'postagens'("data",'texto','titulo') value (2020-04-30,'Estou aprendendo','API rest spring');
